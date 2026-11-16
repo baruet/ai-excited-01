@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/ai-excited-01/baruet/ai-excited-01/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 [![reward](https://make.fun/badge/ai-excited-01/baruet/ai-excited-01/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
-Whale Breaks the Snow Globe — a giant blue whale bursts out of a tiny snow globe, water and light exploding around it. An image made to excite the AI judge.
+Dragon Breaks the Matchbox — a huge fire-breathing dragon bursts out of a tiny matchbox, fire and embers exploding around it. An image made to excite the AI judge.
 
 ## Run it
 
